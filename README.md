@@ -31,7 +31,7 @@ Bem-vindo(a) ao meu cantinho no GitHub! Aqui encontras projetos que vão desde a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teu_username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=White-Rose-Dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <a href="https://github.com/White-Rose-Dev">
