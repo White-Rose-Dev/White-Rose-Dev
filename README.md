@@ -55,7 +55,7 @@ Bem-vindo(a) ao meu cantinho no GitHub! Aqui encontras projetos que vão desde a
 </p>
 
 ---
-
+<!--
 ## 📫 Contacta-me!
 
 - 🌐 Site pessoal: [link se tiveres]
@@ -63,7 +63,7 @@ Bem-vindo(a) ao meu cantinho no GitHub! Aqui encontras projetos que vão desde a
 - 💼 LinkedIn: [linkedin.com/in/teu-user]
 - 💬 Discord: [teu_user#1234] *(se quiseres partilhar)*
 
----
+--- -->
 
 ## 🤖 Fun fact
 
