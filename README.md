@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o 𝙒𝙝𝙞𝙩𝙚.𝙍𝙤𝙨𝙚ᵈᵉᵛ!
+# 👋 Olá, eu sou o 𝙒𝙝𝙞𝙩𝙚.𝙍𝙤𝙨𝙚ᵈᵉᵛ
 
 > *"A programar sonhos, a compilar ideias e a fazer deploy de soluções."* 🚀
 
