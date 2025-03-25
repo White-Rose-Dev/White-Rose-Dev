@@ -46,11 +46,11 @@ Bem-vindo(a) ao meu cantinho no GitHub! Aqui encontras projetos que vão desde a
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=White-Rose-Dev&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>-->
-##
+
 <p align="center">
 <a href="https://github.com/White-Rose-Dev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=White-Rose-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=White-Rose-Dev&layout=compact&langs_count=8&theme=algolia"/>
+  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=White-Rose-Dev&layout=compact&langs_count=8&theme=algolia"/>-->
 </a>
 </p>
 
