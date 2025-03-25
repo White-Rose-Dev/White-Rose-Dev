@@ -8,8 +8,8 @@ Bem-vindo(a) ao meu cantinho no GitHub! Aqui encontras projetos que vão desde a
 
 ## 💡 Sobre mim
 
-- 🎓 Estudante de [área ou curso] com paixão por tudo o que envolva tecnologia, design e resolver problemas.
-- 🛠️ Adoro trabalhar com [linguagens/frameworks favoritas] (mas estou sempre aberto a aprender mais!)
+- 🎓 Estudante de Informática com paixão por tudo o que envolva tecnologia e resolver problemas.
+- 🛠️ Adoro trabalhar com configurações de serviodres (mas estou sempre aberto a aprender mais!)
 - 🔒 Interesso-me por Cibersegurança, Desenvolvimento Web, Inteligência Artificial e Sistemas Distribuídos.
 - 🧠 Curioso por natureza. Criar > Repetir.
 - 🎮 Nas horas vagas: gaming, pixel art, música e café (muito café ☕).
